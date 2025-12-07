@@ -25,18 +25,31 @@ This repository trains PPO, SAC, and TD3 for **300,000 timesteps each**,  saves 
 
 ## Repository Structure
 project_root/
+
 │
+
 ├─ src/
+
 │ ├─ train.py # Training entry point
+
 │ ├─ eval.py # Evaluation & video recording entry point
+
 │ ├─ utils/ # Training/Evaluation utilities/Algorithm builders (PPO/SAC/TD3)
+
 │ ├─ config/ # Config
+
 │ └─ envs/ # Setting Environment
+
 │
+
 ├─ checkpoints/ # Saved checkpoints (best_model.zip)
+
 ├─ plots/ # Evaluation curves
+
 ├─ videos/ # Recorded performance videos
+
 ├─ README.md
+
 └─ .gitignore
 
 ## Install Dependencies
