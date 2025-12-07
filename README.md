@@ -6,6 +6,8 @@ This repository contains an implementation and comparison of three reinforcement
 The goal of the project is to evaluate the learning efficiency, final performance, and training stability  
 of state-of-the-art algorithms under *identical environment settings and reward shaping*.
 
+trained model files: https://drive.google.com/file/d/1XcDYU4tPQ49NddsTBB-qe5Aw-w8umRvC/view?usp=sharing
+
 ---
 
 ## Project Overview
