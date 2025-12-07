@@ -7,6 +7,7 @@ The goal of the project is to evaluate the learning efficiency, final performanc
 of state-of-the-art algorithms under *identical environment settings and reward shaping*.
 
 trained model files: https://drive.google.com/file/d/1XcDYU4tPQ49NddsTBB-qe5Aw-w8umRvC/view?usp=sharing
+Report file: https://github.com/wowharry1/humanoid-rl-project/releases/tag/v1.0
 
 ---
 
